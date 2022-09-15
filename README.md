@@ -1,4 +1,7 @@
-## ✨ Hello. My name is Tex Willer. Welcome to my Github. 🤓
+#### Hi, my name is Tex Willer. 
+Welcome to my Github. 🤓
+
+##
 
 <div>
   <a href="https://www.instagram.com/tex.willer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
