@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello. My name is Tex Willer. Welcome to my Github.🤓
 
 <!--
 **itexwiller/itexwiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
