@@ -13,8 +13,9 @@ Welcome to my Github. 🤓
 
 <ul>
   <li>👨🏻‍💻 Working with technology since 2000.</li>
-  <li>🎓 Graduating in Database - Big Data, Data Science, Data Analytics and Business Intelligence at FIAP.</li>
-  <li>☁️ Enthusiastic and studying warmly to get my certifications in Cloud Computing.</li>
+  <li>🎓 Technology and Software Development - FIAP (2003).</li>
+  <li>🎓 Database - Big Data, Data Science & Business Intelligence - FIAP (2022).</li>
+  
 </ul>
 
  ##
